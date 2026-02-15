@@ -1,25 +1,33 @@
-Ukrainian Real Estate Classifieds Platform (neagent.org.ua)
+## Ukrainian Real Estate Classifieds Platform (neagent.org.ua)
 
 A large-scale WordPress classifieds website focused on the Ukrainian real estate market.
 The platform combines property listings with an extensive content section of 5,000+ SEO articles related to construction, real estate, and related services.
 
 This project marks the beginning of my professional journey in IT. I am the developer, administrator, and owner of the platform.
 
-🚀 Live Website
+---
+
+## 🚀 Live Website
 
 https://neagent.org.ua/
 
-📸 Preview
+---
+
+## 📸 Preview
 
 ➡️ Homepage Screenshot
 
-🎥 Demo Video
+---
+
+## 🎥 Demo Video
 
 The demo video demonstrates listing structure, filtering system, article pages, and responsive behavior.
 
 ➡️ Demo Video
 
-📝 Project Description
+---
+
+## 📝 Project Description
 
 This project is a full-featured real estate classifieds platform built with WordPress and the ListingHive theme.
 
@@ -48,7 +56,9 @@ Article categories include:
 
 Approximately 90% of the article content was written by me, ensuring structured SEO growth and topical authority.
 
-Technical Responsibilities
+---
+
+## Technical Responsibilities
 
 From a technical perspective, I handled:
 
@@ -67,7 +77,9 @@ For this project, I intentionally avoided ACF and built page structures entirely
 
 Basic accessibility improvements were implemented following WCAG principles, without using a dedicated accessibility plugin.
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - WordPress
 - ListingHive Theme
@@ -97,7 +109,9 @@ Basic accessibility improvements were implemented following WCAG principles, wit
 - Fully responsive layout
 - Owner-developed and managed platform
 
-📂 Included Files
+---
+
+## 📂 Included Files
 
 This repository contains:
 
@@ -109,7 +123,9 @@ This repository contains:
 
 | WordPress core files, third-party plugins, and proprietary data are not included.
 
-📌 Notes
+---
+
+## 📌 Notes
 
 This project represents a long-term production website developed and maintained independently.
 It demonstrates experience in large-scale WordPress architecture, automated content import systems, SEO-driven growth, and full project lifecycle management.
