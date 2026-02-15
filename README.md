@@ -15,7 +15,9 @@ https://neagent.org.ua/
 
 ## 📸 Preview
 
-➡️ [Homepage Screenshot](./screenshots/homepage-first-screen.png)
+➡️ [Homepage Screenshot](./screenshots/1.webp)
+➡️ [Cathegory_Filter Screenshot](./screenshots/2.webp)
+➡️ [Add Screenshot](./screenshots/3.webp)
 
 ---
 
