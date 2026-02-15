@@ -11,13 +11,13 @@ https://neagent.org.ua/
 
 📸 Preview
 
-➡️ Homepage Screenshot (./screenshots/homepage.png)
+➡️ Homepage Screenshot
 
 🎥 Demo Video
 
 The demo video demonstrates listing structure, filtering system, article pages, and responsive behavior.
 
-➡️ Demo Video (./demo-video/neagent-demo.mp4)
+➡️ Demo Video
 
 📝 Project Description
 
@@ -59,13 +59,15 @@ Plumbing
 
 Garden Equipment
 
-and other related sectors
+Other related sectors
 
 Approximately 90% of the article content was written by me, ensuring structured SEO growth and topical authority.
 
+Technical Responsibilities
+
 From a technical perspective, I handled:
 
-Full front-end development (HTML/CSS/JS)
+Full front-end development (HTML / CSS / JS)
 
 WordPress integration
 
@@ -160,4 +162,4 @@ WordPress core files, third-party plugins, and proprietary data are not included
 📌 Notes
 
 This project represents a long-term production website developed and maintained independently.
-It demonstrates experience in large-scale WordPress architecture, automated content import systems, SEO
+It demonstrates experience in large-scale WordPress architecture, automated content import systems, SEO-driven growth, and full project lifecycle management.
