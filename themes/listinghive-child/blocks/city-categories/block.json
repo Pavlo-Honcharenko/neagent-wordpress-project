@@ -1,0 +1,9 @@
+{
+  "apiVersion": 2,
+  "name": "neagent/city-categories",
+  "title": "City Categories",
+  "category": "neagent-blocks",
+  "icon": "location",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php"
+}
