@@ -15,7 +15,7 @@ https://neagent.org.ua/
 
 ## 📸 Preview
 
-➡️ Homepage Screenshot
+➡️ [Homepage Screenshot](./screenshots/homepage-first-screen.png)
 
 ---
 
@@ -23,7 +23,7 @@ https://neagent.org.ua/
 
 The demo video demonstrates listing structure, filtering system, article pages, and responsive behavior.
 
-➡️ Demo Video
+➡️ [Demo Video](./demo-video/neagent.mp4)
 
 ---
 
