@@ -123,7 +123,7 @@ This repository contains:
 - Screenshots
 - Demo video
 
-| WordPress core files, third-party plugins, and proprietary data are not included.
+> WordPress core files, third-party plugins, and proprietary data are not included.
 
 ---
 
