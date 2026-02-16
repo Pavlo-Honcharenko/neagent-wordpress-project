@@ -23,7 +23,7 @@ https://neagent.org.ua/
 
 The demo video demonstrates listing structure, filtering system, article pages, and responsive behavior.
 
-➡️ [Demo Video](./demo-video/neagent.mp4)
+➡️ [Demo Video](./demo-video/)
 
 ---
 
