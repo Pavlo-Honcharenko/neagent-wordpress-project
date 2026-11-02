@@ -69,13 +69,26 @@ From a technical perspective, I handled:
 - Custom Gutenberg blocks development
 - Complete SEO optimization
 - Performance optimization
-- Security configuration
-- Hosting migration
+- Hosting migration to a new host (2026)
 - Ongoing administration and maintenance
 
 For this project, I intentionally avoided ACF and built page structures entirely with native Gutenberg, extending it with custom blocks when required. This approach ensured better long-term maintainability and reduced plugin dependency.
 
 Basic accessibility improvements were implemented following WCAG principles, without using a dedicated accessibility plugin.
+
+---
+
+## 🚚 Hosting Migration (2026)
+
+I moved the live site (6 GB, thousands of listing photos) to a new host before the old hosting contract expired:
+
+- built the copy on the new host while the public site kept running
+- set up email and DNS on the new host
+- for the final sync, put the old site in maintenance mode for about 1.5 hours and copied the files again, so nothing changed during setup was lost
+- switched DNS at record level only
+- confirmed SPF, DKIM and DMARC pass on real email headers
+
+No data was lost; the whole migration took 10+ hours of work.
 
 ---
 
@@ -89,7 +102,6 @@ Basic accessibility improvements were implemented following WCAG principles, wit
 - Simple SMTP
 - Cyr-To-Lat
 - Yoast SEO
-- Wordfence Security
 - HTML5
 - CSS3
 - JavaScript
@@ -104,8 +116,7 @@ Basic accessibility improvements were implemented following WCAG principles, wit
 - Custom Gutenberg blocks
 - Structured regional taxonomy (cities and regions)
 - SEO-optimized architecture
-- Security configuration with Wordfence
-- Hosting migration and server optimization
+- Hosting migration with about 1.5 hours of maintenance mode
 - Fully responsive layout
 - Owner-developed and managed platform
 
